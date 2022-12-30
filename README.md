@@ -2,7 +2,7 @@
 
 <h2>Demonstração</h2>
 <div align="center">
-  <img width="600" src="./rocktmovies.png"/>
+  <img width="600" src="./src/assets/rocktmovies.png"/>
 </div>
 
 <h2>Descrição</h2>
