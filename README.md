@@ -11,10 +11,10 @@
 <h2>Aprendizado</h2>
 <p>Conhecimentos obtidos com o projeto:</p>
 <ul>
-  <li>- Introdução ao React</li>
-  <li>- Styled Components</li>
-  <li>- React-router-dom</li>
-  <li>- Navegação entre páginas</li>
+  <li>Introdução ao React</li>
+  <li>Styled Components</li>
+  <li>React-router-dom</li>
+  <li>Navegação entre páginas</li>
 </ul>
 
 <!--<h2>Instalação</h2>
